@@ -1,6 +1,8 @@
 1. OBJETIVO GENERAL
 - OBJETIVO ESPECIFICO
 - Identificar una forma de onda sinusoidal y medir sus características
+- Determinar el periodo
+- Determinar la frecuencia
 - Describir cómo se generan las ondas seno
 - Determinar los diversos valores de voltaje y corriente de una onda seno
 - Describir las relaciones angulares de una onda seno
