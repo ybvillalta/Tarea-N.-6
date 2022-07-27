@@ -20,7 +20,7 @@
 SECCIÓN 11–2 Fuentes de voltaje sinusoidal
 6. Cierto generador de cuatro polos gira a 3600 rpm. ¿Cuál es la frecuencia del voltaje que produce?
 - ![image](https://user-images.githubusercontent.com/105893980/181145248-13db62d3-1f9c-4338-b7f9-e8c2abef25bd.png)
-SECCIÓN 11–3 Valores sinusoidales de voltaje y corriente
+- SECCIÓN 11–3 Valores sinusoidales de voltaje y corriente
 8. El valor pico de una onda seno es de 12 V. Determine los siguientes valores:
 - ![image](https://user-images.githubusercontent.com/105893980/181145394-fe5fb31f-7141-4a61-9c5f-bb195a2dfd69.png)
 10. Para la onda seno de la figura 11-77, determine los valores pico, pico a pico, rms y promedio.
