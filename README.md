@@ -192,6 +192,12 @@ SECCIÓN 12–8 Circuitos de capacitor conmutado
 una frecuencia de 8 kHz. ¿Qué valor de resistor se emula?
 - ![image](https://user-images.githubusercontent.com/105893980/181149445-5d131fef-ee2c-4dc2-b7ff-f2ad4797b63a.png)
 5. VIDEOS
+- CAPITULO 11
+- https://youtu.be/jZzgNmQJ5Es
+- https://youtu.be/vdo7x94QDCo
+- CAPITULO 12
+- https://youtu.be/-nQUOymNOOU
+- https://youtu.be/crz3OAwCxSY
 6. CONCLUSIONES
 - Un voltaje alterno es uno que cambia de polaridad con cierta rapidez. La forma de onda sinusoidal (onda seno) es el tipo más común y fundamental porque todos los demás tipos de formas de onda repetitivas pueden ser descompuestos en ondas seno compuestas. 
 - La onda seno es un tipo periódico de forma de onda que se repite a intervalos fijos.
