@@ -17,7 +17,7 @@
 - ![image](https://user-images.githubusercontent.com/105893980/181145134-0008f2b5-c6b5-45c1-b8fc-85b31b61cb6f.png)
 4. Una onda seno tiene frecuencia de 50 kHz. ¿Cuántos ciclos completa en 10 ms?
 - ![image](https://user-images.githubusercontent.com/105893980/181145167-4116c0a6-eb96-4c17-8933-99ee34386697.png)
-SECCIÓN 11–2 Fuentes de voltaje sinusoidal
+- SECCIÓN 11–2 Fuentes de voltaje sinusoidal
 6. Cierto generador de cuatro polos gira a 3600 rpm. ¿Cuál es la frecuencia del voltaje que produce?
 - ![image](https://user-images.githubusercontent.com/105893980/181145248-13db62d3-1f9c-4338-b7f9-e8c2abef25bd.png)
 - SECCIÓN 11–3 Valores sinusoidales de voltaje y corriente
