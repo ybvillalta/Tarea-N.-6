@@ -32,7 +32,7 @@ SECCIÓN 11–3 Valores sinusoidales de voltaje y corriente
 desfasa cada onda seno con respecto a la referencia de 0°? ¿Cuál es el ángulo de fase entre estas 
 ondas?
 - ![image](https://user-images.githubusercontent.com/105893980/181145554-bef71efd-82f2-4b9f-968a-afb22a5dda90.png)
-SECCIÓN 11–5 La fórmula de la onda seno
+- SECCIÓN 11–5 La fórmula de la onda seno
 16. Cierta onda seno tiene un cruce por cero hacia positivo en 0° y valor rms de 20 V. Calcule su 
 valor instantáneo en cada uno de los siguientes ángulos:
 - ![image](https://user-images.githubusercontent.com/105893980/181145595-660aed6d-442c-4e21-a9c3-85e4a6a99b37.png)
@@ -44,7 +44,7 @@ cada uno de los puntos siguientes:
 20. Repita el problema 19 para el caso en que la onda seno A va 30° delante de la onda seno B.
 - ![image](https://user-images.githubusercontent.com/105893980/181145738-b3b10aaa-c710-4e65-975a-3eee745df2a0.png)
 - ![image](https://user-images.githubusercontent.com/105893980/181145756-c0da16d7-49d2-4cf6-9f4e-a653512cede2.png)
-SECCIÓN 11–6 Introducción a los fasores
+- SECCIÓN 11–6 Introducción a los fasores
 22. Trace un diagrama fasorial para representar las ondas seno de la figura 11-78 con respecto a la 
 referencia de 0°.
 - ![image](https://user-images.githubusercontent.com/105893980/181145785-3747573c-917f-4fd9-836d-71e4cd669d25.png)
@@ -187,7 +187,7 @@ entre las terminales de los otros capacitores
 52. Idealmente, ¿cuál deberá ser la reactancia de un capacitor de desvío para 
 eliminar un voltaje de ca de 10 kHz en un punto dado en un circuito amplificador?
 - ![image](https://user-images.githubusercontent.com/105893980/181149407-b373a5fd-d4bc-4f79-b599-8806d7e73781.png)
-SECCIÓN 12–8 Circuitos de capacitor conmutado
+- SECCIÓN 12–8 Circuitos de capacitor conmutado
 54. En un circuito de capacitor conmutado, el capacitor de 100 pF se conmuta a 
 una frecuencia de 8 kHz. ¿Qué valor de resistor se emula?
 - ![image](https://user-images.githubusercontent.com/105893980/181149445-5d131fef-ee2c-4dc2-b7ff-f2ad4797b63a.png)
